@@ -61,6 +61,15 @@ With a strong foundation in Python, Spark, and data pipelines, I am eager to con
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ## 🚀 Featured Projects
+- [영화 취향 기반 소셜 네트워킹 플랫폼 CINEMATE](https://github.com/j25ng/CINEMATE/tree/main)
+
+  ***2024.11.14 - 2025.01.06***
+- [ML 및 DL model을 이용한 나이 예측 시스템](https://github.com/j25ng/Age-Classifier)
+  
+  ***24.10.04 - 24.10.08***
+- [Kafka를 활용한 업무용 채팅 메신저](https://github.com/j25ng/Business-Chatting-System)
+
+  ***24.08.23 - 24.08.28***
 
 ## 📊 GitHub Stats
 ![Jeongeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=j25ng&show_icons=true&theme=vue)
@@ -68,4 +77,4 @@ With a strong foundation in Python, Spark, and data pipelines, I am eager to con
 ## 📫 Get in Touch
 - **Email:** jsan2861@gmail.com
 
-## 🎯 Current Focus
+<!--## 🎯 Current Focus-->
