@@ -69,7 +69,7 @@ With a strong foundation in Python, Spark, and data pipelines, I am eager to con
   ***24.10.04 - 24.10.08***
 - [Kafka를 활용한 업무용 채팅 메신저](https://github.com/j25ng/Business-Chatting-System)
 
-  ***24.08.23 - 24.08.28***
+  ***24.08.23 - 24.08.27***
 
 ## 📊 GitHub Stats
 ![Jeongeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=j25ng&show_icons=true&theme=vue)
