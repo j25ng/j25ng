@@ -21,7 +21,7 @@ With a strong foundation in Python, Spark, and data pipelines, I am eager to con
 | 2024-06-21 | SQL개발자(SQLD) | 한국데이터산업진흥원 |
 | 2024-08-14 | PCCE(Python)-프로그래머스코딩필수역량자격 Lv3 (881점) | (주)그렙 |
 | 2024-11-29 | 데이터분석준전문가(ADsP) | 한국데이터산업진흥원 |
-| TBD | 리눅스 마스터 2급 (1차 합격) | 한국정보통신인력개발센터 |
+| 2025-03-28 | 리눅스 마스터 2급 | 한국정보통신인력개발센터 |
 
 ## 🛠️ Tech Stack
 ### 💻 Programming Languages
